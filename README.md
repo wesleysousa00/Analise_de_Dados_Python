@@ -1,2 +1,2 @@
-# Analise_de_Dados_Python
-Repositório com notebooks de Análise de Dados com Python
+# Análise de Dados com Python
+Repositório com notebooks de Análise de Dados em Python
